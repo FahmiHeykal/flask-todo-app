@@ -2,7 +2,7 @@
 
 Aplikasi sederhana menggunakan Flask untuk mengelola tugas (todo). Untuk menambah, melihat, memperbarui, dan menghapus tugas dengan aplikasi ini.
 
-## Fitur:
+## Fitur :
 - Menambah tugas baru
 - Melihat daftar tugas
 - Menandai tugas selesai
